@@ -3,8 +3,7 @@ let resumeData = {
     "name": "Alexander Morales Garcia",
     "role": "Software Engineer",
     "linkedinId":"alex-morales-garcia-99b035154",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like to learn and create applications in various parts of software development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I aspire to integrate the design of applications with my knowledge in programming. In my free time I like to play guitar, take photographs, and shoot films.",
     "socialLinks":[
     {
     "name":"linkedin",
@@ -17,12 +16,12 @@ let resumeData = {
     "className":"fa fa-github"
     },
     {
-    "name":"skype",
-    "url":"",
-    "className":"fa fa-twitter"
+    "name":"instagram",
+    "url":"https://www.instagram.com/alex_morales27/",
+    "className":"fa fa-instagram"
     }
     ],
-    "aboutme":"I am currently a Masters student at The Hochschule Fulda and pursuing my masters in Global software Development from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"My name is Alexander Morales Garcia and an inspiring front end developer. I am a recent graduate at Saint John's University with a computer science major and a psychology minor. ",
     "address":"Minnesota, United States",
     "website":"https://ivy555.github.io",
     "education":[
