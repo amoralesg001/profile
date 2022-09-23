@@ -46,14 +46,14 @@ let resumeData = {
     "specialization":"Help Desk Assistant",
     "MonthOfLeaving":"May",
     "YearOfLeaving":"2018 - 2022",
-    "Achievements":"Some Achievements"
+    "Achievements":"-Provide innovative, reliable technology and services to enable teaching, and learning within the university. \n -Communication skills which include solving technological problems and communicating with efficiency and clarity"
     },
     {
     "CompanyName":"Penn State Applied Research Laboratory",
     "specialization":"User Experience Intern",
     "MonthOfLeaving":"June - August",
     "YearOfLeaving":"2021",
-    "Achievements":"Some Achievements"
+    "Achievements":"-Provide innovative, reliable technology and services to enable teaching, and learning within the university -Communication skills which include solving technological problems and communicating with efficiency and clarity"
     },
     {
     "CompanyName":"Applied Social/Cognitive Research Assistant ",
